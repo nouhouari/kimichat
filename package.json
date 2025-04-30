@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.99.0"
   },
+  "bugs": {
+    "url": "https://github.com/nouhouari/kimichat.git"
+  },
+  "homepage": "https://github.com/nouhouari/kimichat.git",
   "categories": [
     "Other"
   ],
